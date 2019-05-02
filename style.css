@@ -1,0 +1,13 @@
+.glob{
+    display: flex;
+    justify-content: center;
+    border: 1px groove black;
+}
+
+select{
+
+    border: 1px gray groove;
+    max-width: 100%;
+    width: 200px;
+
+}
